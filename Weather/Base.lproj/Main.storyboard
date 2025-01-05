@@ -53,8 +53,8 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="getWeather" destination="dha-aw-5SQ" id="MFi-Ur-g1U"/>
-                        <outlet property="weatherLabel" destination="jlQ-ef-S0e" id="muV-ZN-SZc"/>
+                        <outlet property="getWeatherButton" destination="dha-aw-5SQ" id="KjR-yn-1KO"/>
+                        <outlet property="weatherLabel" destination="jlQ-ef-S0e" id="Ku1-tX-UZz"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
